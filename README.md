@@ -1,5 +1,7 @@
-**Hospital Mangement System**
-**Description:**
+**Hospital Mangement System**  
+
+**Description:**  
+
 The Hospital Management System is a comprehensive console-based application designed using the C programming language. Based on menu we can select opertion to be performed. 
 ===== Hospital Management System Menu =====
 1. Add New Patient Record
@@ -15,6 +17,7 @@ Enter your choice:
 This project is intended to simplify and manage various administrative tasks within a hospital, including patient management, appointment scheduling, and billing operations.
 By utilizing file handling techniques, this system ensures that data is stored persistently, allowing for efficient retrieval and management of records.
 **Execution**
+
 ./a.out
 
 **Build with**
@@ -22,5 +25,6 @@ By utilizing file handling techniques, this system ensures that data is stored p
 2. Ubuntu
 3. C Programming Language
 
-**Author**
+**Author**  
+
 Hiregoudru Malegouda

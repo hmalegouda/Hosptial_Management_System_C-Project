@@ -19,7 +19,8 @@ This project is intended to simplify and manage various administrative tasks wit
 By utilizing file handling techniques, this system ensures that data is stored persistently, allowing for efficient retrieval and management of records.
 
 **Execution**
-
+ For compilation: gcc main.c -o main
+ For Execution  : ./main.out
 ./a.out
 
 **Build with**
